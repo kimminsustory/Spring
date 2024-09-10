@@ -1,7 +1,7 @@
 # Tmax WAPL Web Application
 
 ## 프로젝트 개요
-이 프로젝트는 Spring Boot를 사용하여 CentOS 9에서 Tibero7 데이터베이스와 Tomcat 웹 서버를 기반으로 하는 웹 애플리케이션입니다. Kubernetes 클러스터는 master, worker1, worker2로 구성되어 있습니다. 웹 애플리케이션은 홈 화면, 회원가입 화면, 로그인 화면, 마이페이지 화면으로 구성되며, 모든 페이지의 오른쪽 상단에 실시간 날씨 정보가 표시됩니다.
+이 프로젝트는 Spring을 사용하여 CentOS 9에서 Tibero7 데이터베이스와 Tomcat 웹 서버를 기반으로 하는 웹 애플리케이션입니다. Kubernetes 클러스터는 master, worker1, worker2로 구성되어 있습니다. 웹 애플리케이션은 홈 화면, 회원가입 화면, 로그인 화면, 마이페이지 화면으로 구성되며, 모든 페이지의 오른쪽 상단에 실시간 날씨 정보가 표시됩니다.
 
 ## 주요 기능
 ### 홈 화면
@@ -35,7 +35,7 @@
 - OpenWeatherMap API를 사용하여 날씨 정보를 연동합니다.
 
 ## 기술 스택
-- **Backend**: Spring Boot
+- **Backend**: Spring
 - **Frontend**: JSP, JavaScript
 - **Database**: Tibero7
 - **Web Server**: Apache Tomcat
