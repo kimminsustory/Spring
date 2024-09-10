@@ -1,0 +1,12 @@
+com/example/myapp/controller/WeatherController.class
+com/example/myapp/controller/HomeController.class
+com/example/myapp/controller/LoginController.class
+com/example/myapp/service/UserService.class
+com/example/myapp/controller/UserController.class
+com/example/myapp/config/TiberoDialect$TiberoIdentityColumnSupport.class
+com/example/myapp/MyAppApplication.class
+com/example/myapp/repository/UserRepository.class
+com/example/myapp/controller/RegisterController.class
+com/example/myapp/service/WeatherService.class
+com/example/myapp/model/User.class
+com/example/myapp/config/TiberoDialect.class
